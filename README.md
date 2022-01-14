@@ -5,5 +5,5 @@ ProxyX Team Says Hi 👋
 </h1>
 
 <p align="center">
-ProxyX team is an engineering team based in Serbia dealing with creation of various web and platform based apps, database data management, system administration and overall app design. 
+ProxyX is an hiring agency based in Serbia dealing with creation of various web and platform based apps, database data management, system administration and overall app design. 
 </p>
