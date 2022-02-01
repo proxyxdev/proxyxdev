@@ -5,5 +5,5 @@ ProxyX Team Says Hi 👋
 </h1>
 
 <p align="center">
-ProxyX is an hiring agency based in Serbia dealing with creation of various web and platform based apps, database data management, system administration and overall app design. 
+ProxyX is a company based in Serbia dealing with RPO ( recruitment process outsourcing ) and product development ( product engineering and design ).
 </p>
