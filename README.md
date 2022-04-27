@@ -4,6 +4,10 @@ ProxyX Team Says Hi 👋
   
 </h1>
 
+<p align="center">  
+  <a href="https://www.youtube.com/watch?v=qmkFMkyypmo"><img width="80%" src="https://img.youtube.com/vi/qmkFMkyypmo/0.jpg" /></a>
+</p>
+
 <p align="center">
-ProxyX DevTeam is a team dealing with product development ( product engineering and design ).
+ProxyX DevTeam is a team dealing with product development ( product engineering and design ).  
 </p>
