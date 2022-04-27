@@ -9,5 +9,5 @@ ProxyX Team Says Hi 👋
 </p>
 
 <p align="center">
-ProxyX DevTeam is a team dealing with product development ( product engineering and design ).  
+ProxyX DevTeam is a team dealing with product development ( product engineering and design ).
 </p>
