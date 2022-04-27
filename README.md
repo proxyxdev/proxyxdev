@@ -5,7 +5,7 @@ ProxyX Team Says Hi 👋
 </h1>
 
 <p align="center">  
-  <a href="https://www.youtube.com/watch?v=qmkFMkyypmo"><img width="80%" src="https://img.youtube.com/vi/qmkFMkyypmo/0.jpg" /></a>
+  <a href="https://www.youtube.com/watch?v=qmkFMkyypmo"><img width="80%" src="https://img.youtube.com/vi/qmkFMkyypmo/maxresdefault.jpg" /></a>
 </p>
 
 <p align="center">
